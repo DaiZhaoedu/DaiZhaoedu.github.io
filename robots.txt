@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: DaiZhaoedu.github.io/sitemap.xml
+Sitemap: http://DaiZhaoedu.github.io/sitemap.xml
