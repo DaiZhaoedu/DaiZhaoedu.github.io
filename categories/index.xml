@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 阿钊的个人网站</title>
-    <link>http://DaiZhaoedu.github.io/categories/</link>
+    <link>https://github.com/DaiZhaoedu/categories/</link>
     <description>Recent content in Categories on 阿钊的个人网站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Wed, 30 Aug 2017 01:53:34 +0800</lastBuildDate>
     
-	<atom:link href="http://DaiZhaoedu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github.com/DaiZhaoedu/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>日本語</title>
-      <link>http://DaiZhaoedu.github.io/categories/%E6%97%A5%E6%9C%AC%E8%AA%9E/</link>
+      <link>https://github.com/DaiZhaoedu/categories/%E6%97%A5%E6%9C%AC%E8%AA%9E/</link>
       <pubDate>Wed, 30 Aug 2017 01:53:34 +0800</pubDate>
       
-      <guid>http://DaiZhaoedu.github.io/categories/%E6%97%A5%E6%9C%AC%E8%AA%9E/</guid>
+      <guid>https://github.com/DaiZhaoedu/categories/%E6%97%A5%E6%9C%AC%E8%AA%9E/</guid>
       <description></description>
     </item>
     
     <item>
       <title>中文</title>
-      <link>http://DaiZhaoedu.github.io/categories/%E4%B8%AD%E6%96%87/</link>
+      <link>https://github.com/DaiZhaoedu/categories/%E4%B8%AD%E6%96%87/</link>
       <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
       
-      <guid>http://DaiZhaoedu.github.io/categories/%E4%B8%AD%E6%96%87/</guid>
+      <guid>https://github.com/DaiZhaoedu/categories/%E4%B8%AD%E6%96%87/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Syntax Highlighting</title>
-      <link>http://DaiZhaoedu.github.io/categories/syntax-highlighting/</link>
+      <link>https://github.com/DaiZhaoedu/categories/syntax-highlighting/</link>
       <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
       
-      <guid>http://DaiZhaoedu.github.io/categories/syntax-highlighting/</guid>
+      <guid>https://github.com/DaiZhaoedu/categories/syntax-highlighting/</guid>
       <description></description>
     </item>
     
