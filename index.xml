@@ -1,14 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>阿钊的个人博客</title>
-    <link>http://example.org/</link>
-    <description>Recent content on 阿钊的个人博客</description>
+    <title>阿钊的个人博客 on 阿钊的个人博客</title>
+    <link>http://DaiZhaoedu.github.io/</link>
+    <description>Recent content in 阿钊的个人博客 on 阿钊的个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 22 Jul 2019 22:41:41 +0800</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>First</title>
+      <link>http://DaiZhaoedu.github.io/post/first/</link>
+      <pubDate>Mon, 22 Jul 2019 22:41:41 +0800</pubDate>
+      
+      <guid>http://DaiZhaoedu.github.io/post/first/</guid>
+      <description>
+
+&lt;h3 id=&#34;hello-world&#34;&gt;Hello world&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;师傅叫我写博客&lt;/li&gt;
+&lt;li&gt;那就弄个博客呗，&lt;/li&gt;
+&lt;li&gt;静态博客工具Hugo&lt;/li&gt;
+&lt;li&gt;部署上线后，选一个自己喜欢的主题&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
